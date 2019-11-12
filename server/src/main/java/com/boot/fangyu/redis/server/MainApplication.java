@@ -1,4 +1,4 @@
-package com.boot.fangyu.server;
+package com.boot.fangyu.redis.server;
 
 /**
  * @author fangyu

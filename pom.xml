@@ -14,7 +14,6 @@
         <module>server</module>
     </modules>
     <name>Redis技术入门</name>
-    <url>www.fang7.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
